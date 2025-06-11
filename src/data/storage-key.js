@@ -38,14 +38,14 @@ export const defaultSetting = {
   [KeyExtensionTheme]: true,
 
   [KeyDynamicVideo]: false,
-  [KeyHideChannelProfile]: true,
-  [KeyHideShort]: false,
+  [KeyHideChannelProfile]: false,
+  [KeyHideShort]: true,
   [KeyDisplayFullTitle]: false,
-  [KeyVideoPerRow]: 5,
+  [KeyVideoPerRow]: 4,
   [KeyPostPerRow]: 3,
   [KeyShelfItemPerRow]: 12,
 
   [KeyChannelPageWideLayout]: false,
-  [KeyChannelPageVideoPerRow]: 5,
+  [KeyChannelPageVideoPerRow]: 4,
   [KeyChannelPageShelfItemPerRow]: 8,
 };
